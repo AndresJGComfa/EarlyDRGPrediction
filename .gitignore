@@ -1,0 +1,6 @@
+/data/apr/*
+/data/ms/*
+
+/embedding/*
+
+/__pycache__/
